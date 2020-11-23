@@ -54,7 +54,7 @@ This would fork `gatsby-starter-foundation` to your Github account and start bui
 - Now, goto to **site-name.netlify.app/admin/**, and login with your credentials.
 
 ## 📝 Editing content and Adding posts
-Once you are in your Netlify CMS, you can navigate to Posts and Pages. Here you will find a list of existing pages and posts. 
+Once you are in your Netlify CMS, you can navigate to Posts and Pages. Here you will find a list of existing pages and posts.
 
 You can select any existing post or page to start editing or add a **New Post**. Have fun :)
 
@@ -138,9 +138,9 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 
 ## 🙏 Thank you
-We really appreciate you taking time to build your website with our `gatsby-starter-foundation`. 
+We really appreciate you taking time to build your website with our `gatsby-starter-foundation`.
 
-I would love to get your feedback and contributions. 
+I would love to get your feedback and contributions.
 
 Feel free to ping [@stackrole](stackrole) for help regarding your JAMstack website, our DM's are open. And do not forget to share you website with me 😊
 
@@ -150,3 +150,5 @@ Feel free to ping [@stackrole](stackrole) for help regarding your JAMstack websi
 [stackrole]: https://stackrole.com
 [twitter]: https://twitter.com/stackrole
 [custom-domain]: https://stackrole.com/adding-custom-domain-netlify
+
+https://wonderful-raman-c083d0.netlify.app/.netlify/identity
